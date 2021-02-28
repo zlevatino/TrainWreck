@@ -7,4 +7,5 @@ First coding Project
   <p>I have very little experience but learning to code has been an absolute blast and im only a week in, I have a good feeling this is going to change my life.</p>
   </body>
   </html>
- 
+var Apples = "50" + "apples";
+console.log (Apples);
