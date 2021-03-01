@@ -3,6 +3,9 @@ First coding Project
 <html>
   <head>
     <link rel="stylesheet" href= "style.css">
+    <style>
+      h3 {background-color: black;
+      color:red;}
   </head>
   <body>
     <h3>I want to make coding my career</h3>
