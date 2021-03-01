@@ -6,6 +6,7 @@ First coding Project
     <style>
       h3 {background-color: black;
       color:red;}
+    </style>
   </head>
   <body>
     <h3>I want to make coding my career</h3>
